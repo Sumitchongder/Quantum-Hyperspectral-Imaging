@@ -124,7 +124,7 @@ We observed a distinct trade-off between computational cost and predictive power
     ```
 3.  Run the Notebook:
     ```bash
-    jupyter notebook Q-HSI_Quantum_Hyperspectral_Imaging.ipynb
+    Jupyter Notebook Q-HSI: Quantum Hyperspectral Imaging.ipynb
     ```
 
 ---
