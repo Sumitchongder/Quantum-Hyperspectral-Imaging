@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Frameworks](https://img.shields.io/badge/Xanadu-PennyLane-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ## 📖 Executive Summary
 This project explores the intersection of **Classical Deep Learning** and **Quantum Machine Learning (QML)** for medical image diagnostics. Using the **HAM10000 dataset**, we benchmark three distinct architectures for skin cancer classification (Benign vs. Malignant):
