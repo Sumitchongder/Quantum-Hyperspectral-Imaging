@@ -2,8 +2,20 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Frameworks](https://img.shields.io/badge/Xanadu-PennyLane-orange)
+![Frameworks](https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20PennyLane%20%7C%20Qiskit-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
+![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-lightgrey)
+![Domain](https://img.shields.io/badge/Domain-Medical%20Imaging%20%7C%20Quantum-green)
+
+---
+
+## Key Highlights
+- 🚀 **Speed:** Quantum model trains 13× faster than CNN.  
+- 🎯 **Accuracy:** Hybrid ensemble achieves 83.5% test accuracy, slightly exceeding classical CNN.  
+- 🧠 **Innovation:** First-of-its-kind fusion of CNN + VQC for dermatology.  
+- 🏥 **Impact:** Sensor-agnostic pipeline ready for hyperspectral medical imaging.  
+
+---
 
 ## 📖 Executive Summary
 This project explores the intersection of **Classical Deep Learning** and **Quantum Machine Learning (QML)** for medical image diagnostics. Using the **HAM10000 dataset**, we benchmark three distinct architectures for skin cancer classification (Benign vs. Malignant):
