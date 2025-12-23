@@ -29,3 +29,6 @@ Thank you for your interest in the **Quantum-Enhanced Hyperspectral Imaging** pr
    pip install -r requirements.txt
    ```
 3. Run the existing Jupyter Notebook to ensure the baseline environment is functional.
+
+## Contact
+If you have questions, please reach out to Sumit Tapas Chongder at [sumitchongder960@gmail.com].
